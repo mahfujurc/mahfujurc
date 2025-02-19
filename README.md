@@ -18,9 +18,6 @@ I'm a **Philosophy student** with a deep interest in **Python automation, C++, a
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfujurc&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujurc&layout=compact&theme=tokyonight)
 
 ---
 
