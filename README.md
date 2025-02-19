@@ -6,7 +6,7 @@ I'm a **Philosophy student** with a deep interest in **Python automation, C++, a
 
 ### 🚀 About Me
 - 📚 Passionate about **Philosophy & Technology**
-- 🖥️ Exploring **Python automation & C++**
+- 🖥️ Exploring **Python automation & Java**
 - 🎯 Always learning something new!
 - 💬 Let's talk about **philosophy, AI, and automation**
 
