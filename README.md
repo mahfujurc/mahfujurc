@@ -13,11 +13,8 @@ I'm a **Philosophy student** with a deep interest in **Python automation, C++, a
 ---
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
+![Python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&logo=python&logoColor=white)  <!-- Green color -->
+![C++](https://img.shields.io/badge/C++-00A3E0?style=for-the-badge&logo=c%2B%2B&logoColor=white)  <!-- Sky blue color -->
 
 ---
 
@@ -27,8 +24,6 @@ I'm a **Philosophy student** with a deep interest in **Python automation, C++, a
 ---
 
 ### 📬 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahfujurc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfujurc)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahfujurc)
 
 Let's explore the world of **Philosophy & Automation** together! 🚀
- 
