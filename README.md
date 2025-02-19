@@ -34,3 +34,4 @@ I'm a **Philosophy student** with a deep interest in **Python automation, C++, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfujurc)  
 
 Let's explore the world of **Philosophy & Automation** together! 🚀
+ 
