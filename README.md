@@ -12,8 +12,7 @@ I'm a **Philosophy student** with a deep interest in **Python automation, C++, a
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&logo=python&logoColor=white)  <!-- Green color -->
+
 
 ---
 
