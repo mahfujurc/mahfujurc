@@ -2,7 +2,7 @@
 
 > *"Philosophy is the software of the mind, and coding is its language."* 💡
 
-I'm a **Philosophy student** with a deep interest in **Python automation, C++, and knowledge systems**. I love exploring how technology and philosophical thought intersect! 🧠💻
+I'm a **Philosophy student** with a deep interest in **Python automation, Java, and knowledge systems**. I love exploring how technology and philosophical thought intersect! 🧠💻
 
 ### 🚀 About Me
 - 📚 Passionate about **Philosophy & Technology**
